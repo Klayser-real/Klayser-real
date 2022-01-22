@@ -33,7 +33,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klayser-real&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=klayser)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayser-real&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
  </div>
